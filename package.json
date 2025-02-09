@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Start a 24/7 youtube livestream on your channel and play different videos.",
   "main": "stream.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,0 +1,22 @@
+{
+  "name": "youtube-24-7-stream",
+  "version": "1.0.0",
+  "description": "Start a 24/7 youtube livestream on your channel and play different videos.",
+  "main": "stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedox-die-Ente/youtube-24-7-stream.git"
+  },
+  "author": "Fedox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fedox-die-Ente/youtube-24-7-stream/issues"
+  },
+  "homepage": "https://github.com/Fedox-die-Ente/youtube-24-7-stream#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}

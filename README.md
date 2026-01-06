@@ -1,3 +1,5 @@
+# NOTE: This will eat A LOT OF traffic, so if you have LIMITED TRAFFIC on your server, i dont recommend using this.
+
 # YouTube Live Streaming with FFmpeg
 
 ## Description
